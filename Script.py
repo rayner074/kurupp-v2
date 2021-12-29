@@ -14,7 +14,7 @@ class script(object):
 - Kurupp V2 is not an open source project. 
 -   
 
-<b>DEVS:</b>
+<b>DEV ⚡:</b>
 - <a href=https://t.me/rayner74>Rayner 74 </a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
