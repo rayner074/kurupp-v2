@@ -1,7 +1,8 @@
 {
     "name": "Kurupp V2",
     "description": "When you going to send file on telegram channel this bot will save that in database",
-    "logo": ""logo": "https://telegra.ph/file/33e070a63186b01afb488.jpg",
+    "logo":
+ "https://telegra.ph/file/33e070a63186b01afb488.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
