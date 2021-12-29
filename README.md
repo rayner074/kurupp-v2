@@ -52,11 +52,11 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 You can deploy this bot anywhere.
 
 
-<details><summary>Deploy To Heroku</summary>
+<details>Deploy To Heroku
 <p>
 <br>
 <a>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rayner074/kurupp-v2)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rayner074/kurupp-v2)
 </a>
 </p>
 </details>
